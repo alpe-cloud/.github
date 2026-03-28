@@ -4,9 +4,9 @@
 
 Europe has datacenters, engineers, and world-class networking infrastructure. What it lacks is the platform: the managed services, the operational guarantees, the self-service experience that makes hyperscale cloud providers the default choice.
 
-AWS did not win because of its servers. It won because when you click "create database," you get automated backups, failover, monitoring, scaling, and patching — without hiring a DBA. That operational layer is the product. The servers underneath are a commodity.
+AWS did not win because of its servers. It won because when you click "create database," you get automated backups, failover, monitoring, scaling, and patching without hiring a DBA. That operational layer is the product. The servers underneath are a commodity.
 
-Alpe is the operational layer — built in the open, running on European infrastructure, under European law.
+Alpe is the operational layer built in the open, running on European infrastructure, under European law.
 
 ---
 
@@ -14,9 +14,7 @@ Alpe is the operational layer — built in the open, running on European infrast
 
 Alpe is an open-source sovereign cloud platform. European infrastructure providers supply the compute, the network, and the physical security. Alpe supplies everything above that: the control plane, the managed services, the developer experience, the sovereignty guarantees, and the operational accountability.
 
-When you run `alpe deploy` or click "Create Database" in the console, you are provisioning managed services that Alpe operates, on European hardware, under European jurisdiction — with operational guarantees that Alpe is accountable for.
-
-Alpe is not a tool. Infrastructure-as-code tools describe what to deploy. They do not operate anything. They do not wake up at 3 AM when your database runs out of disk. Alpe does.
+When you run `alpe deploy` or click "Create Database" in the console, you are provisioning managed services that Alpe operates, on European hardware, under European jurisdiction with operational guarantees that Alpe is accountable for.
 
 ---
 
